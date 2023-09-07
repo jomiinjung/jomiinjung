@@ -3,9 +3,8 @@
 # Welcome to Minjung's Github👋
 <br>
 
-🌱 Portfolio https://trusting80c.notion.site/Jo-MinJung-28f573e6b7574f6fa900dc7697adcb02?pvs=4
-<div style="font-weight:bold;"></div>
-<div style="font-size:18;">📫 Email <a href="#">minjungg8879@gmail.com</a></div>
+<div>🌱 Portfolio https://devmiinjung.notion.site/Jo-MinJung-28f573e6b7574f6fa900dc7697adcb02?pvs=4</div>
+<div>📫 Email <a href="#">minjungg8879@gmail.com</a></div>
 
 #### 🔨 Skills
 <div style="display:flex; flex-direction:row;">
