@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Minjung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=62&height=250)
 <!--[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjomiinjung&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jiholee0)-->
 
-<div style="font-weight:bold;">🌱 Portfolio</div>
-<div style="font-size:18;">https://trusting80c.notion.site/Jo-MinJung-28f573e6b7574f6fa900dc7697adcb02?pvs=4</div>
+<div style="font-weight:bold;">🌱 Portfolio https://trusting80c.notion.site/Jo-MinJung-28f573e6b7574f6fa900dc7697adcb02?pvs=4</div>
+<div style="font-size:18;">📫 Email <a href="minjungg8879@gmail.com">minjungg8879@gmail.com</a></div>
 
 ## 🔨 Skills
 <div style="display:flex; flex-direction:row;">
@@ -28,12 +28,6 @@
     <br>
 </div><br>
 
-## 📞 Contact
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:minjungg8879@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
 
 <!--
 **jomiinjung/jomiinjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
