@@ -1,6 +1,6 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Minjung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=62&height=250)-->
 <!--[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjomiinjung&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jiholee0)-->
-# Welcome to Minjung's Github👋
+# Welcome to Minjung's Github 👩‍💻✨
 <br>
 
 <div>🌱 Portfolio https://devmiinjung.notion.site/Jo-MinJung-28f573e6b7574f6fa900dc7697adcb02?pvs=4</div>
