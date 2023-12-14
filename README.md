@@ -3,7 +3,6 @@
 # Welcome to Minjung's Github👋
 <br>
 
-<div>🌱 Portfolio https://devmiinjung.notion.site/Jo-MinJung-28f573e6b7574f6fa900dc7697adcb02?pvs=4</div>
 <div>📫 Email <a href="#">minjungg8879@gmail.com</a></div>
 
 #### 🔨 Skills
